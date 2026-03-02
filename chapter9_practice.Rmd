@@ -1,0 +1,12 @@
+---
+title: "Chapter 9 Practice"
+output: html_notebook
+---
+
+```{r}
+library(readr)
+```
+
+```{r}
+dplace_df=read.csv("data/Values_Transport_dplace.csv")
+```
